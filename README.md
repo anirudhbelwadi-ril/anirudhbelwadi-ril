@@ -12,25 +12,19 @@ My motto of being determined towards the software world and its development for 
 
 # Status
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi-ril&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi-ril&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 ## Recent Activity
 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [anirudhbelwadi/convert-html-tables-to-csv](https://github.com/anirudhbelwadi/convert-html-tables-to-csv)
-2. 📔 Created new repository [Team-FullStack/test](https://github.com/Team-FullStack/test)
-3. ❌ Closed PR [#3831](https://github.com/keshavsingh4522/hacktoberfest2021/pull/3831) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
-4. ❌ Closed PR [#656](https://github.com/acmbvp/Hacktoberfest/pull/656) in [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
-5. 📔 Created new repository [LearnCarbon/learncarbon.github.io](https://github.com/LearnCarbon/learncarbon.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 24th, 2023, 2:02:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi/views.svg)
+![ViewCount](https://views.whatilearened.today/views/github/anirudhbelwadi-ril/views.svg)
 
 # Education
 
